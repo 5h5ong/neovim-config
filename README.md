@@ -13,7 +13,7 @@
 - typescript.vim
   - typescript syntax highlight
 - vim-jsx-typescript
-  -typescript jsx syntax highlight
+  - typescript jsx syntax highlight
 - auto-pairs
   - (), {}, [] ...
 - ale
