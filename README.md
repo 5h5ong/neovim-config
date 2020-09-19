@@ -11,9 +11,9 @@
 - coc.nvim
 - fzf
 - typescript.vim
-  - typescript syntax highlight
+  - typescript syntax highlighting
 - vim-jsx-typescript
-  - typescript jsx syntax highlight
+  - typescript jsx syntax highlighting
 - auto-pairs
   - (), {}, [] ...
 - ale
